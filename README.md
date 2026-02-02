@@ -2,6 +2,8 @@
 
 Sistema de ecommerce completo con busqueda inteligente mediante Machine Learning y gestion de ventanas de despacho con reservas temporales.
 
+VIDEO DEMO: https://drive.google.com/file/d/1SgZrnoFxLZtDoF3cbL5MTW0xctgjO1A1/view?usp=sharing
+
 ## Arquitectura
 
 El sistema esta compuesto por 3 servicios independientes:
