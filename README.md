@@ -113,6 +113,8 @@ La aplicacion estara disponible en `http://localhost:3000`
 ### Backend (server-retail-walmart-cl)
 - Migrar de SQLite a PostgreSQL para aprovechar funcionalidades avanzadas como triggers y PL/SQL
 
+- Implementar Redis + PostgreSQL para mejorar las reservas de ventanas de delivery
+
 - Implementar triggers que detecten inactividad en ventanas de despacho y liberen automáticamente los cupos reservados
 
 - Desarrollar pruebas unitarias para todos los endpoints
